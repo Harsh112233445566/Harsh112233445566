@@ -1,4 +1,4 @@
-![2024-10-02-Hi-I-am-Harshwardhan (1)](https://github.com/user-attachments/assets/08209e16-1feb-4f63-92b2-95541644e68e)
+![2024-10-02-Hi-I-am-Harshwardhan](https://github.com/user-attachments/assets/f336da63-38ce-48bd-93df-29e4a25f82a0)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh112233445566&label=Profile%20views&color=0e75b6&style=flat" alt="harsh112233445566" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harsh112233445566](https://github.com/Harsh112233445566)
