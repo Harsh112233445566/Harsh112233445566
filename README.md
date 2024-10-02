@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh112233445566&label=Profile%20views&color=0e75b6&style=flat" alt="harsh112233445566" /> </p>
 
+- About me:
+  I am a passionate about coding and problem-solving, with a strong interest in cybersecurity and pentesting. I enjoys exploring new technologies and I am constantly seeking to expand my knowledge and skills in the tech world.
 - 👨‍💻 All of my projects are available at [https://github.com/Harsh112233445566](https://github.com/Harsh112233445566)
-- 
 - 📫 How to reach me **harshkankhar1@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
