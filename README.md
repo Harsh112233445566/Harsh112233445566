@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Harshwardhan</h1>
+
+![2024-10-02-Hi-I-am-Harshwardhan (1)](https://github.com/user-attachments/assets/08209e16-1feb-4f63-92b2-95541644e68e)
+
 <h3 align="center">A passionate coder and tech enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh112233445566&label=Profile%20views&color=0e75b6&style=flat" alt="harsh112233445566" /> </p>
