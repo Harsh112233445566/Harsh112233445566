@@ -14,7 +14,7 @@
 <a href="https://instagram.com/o_n_e_above_all" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o_n_e_above_all" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/harshkankhar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harshkankhar1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshkankhar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshkankhar1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/harshkankhar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshkankhar1" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/harshkashj2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshkankhar1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
